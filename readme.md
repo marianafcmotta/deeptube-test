@@ -72,7 +72,7 @@ Esta é uma aplicação Python que utiliza FastAPI e Selenium para buscar anúnc
     ```
 
 ## Estrutura do Projeto
-
+```
 backend/
 │
 ├── .venv/
@@ -83,7 +83,7 @@ backend/
 ├── models.py
 ├── requirements.txt
 └── README.md
-
+```
 
 - **main.py**: Contém a lógica principal da aplicação FastAPI.
 - **models.py**: Contém a definição dos modelos de dados usados na aplicação.
