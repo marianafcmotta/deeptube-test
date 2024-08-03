@@ -1,5 +1,3 @@
-# Anúncios Transparency
-
 Esta é uma aplicação Python que utiliza FastAPI e Selenium para buscar anúncios de transparência do Google. 
 
 ## Requisitos
