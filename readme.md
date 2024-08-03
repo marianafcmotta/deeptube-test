@@ -13,8 +13,8 @@ Esta é uma aplicação Python que utiliza FastAPI e Selenium para buscar anúnc
 1. Clone este repositório:
 
     ```sh
-    git clone <URL_DO_REPOSITORIO>
-    cd <NOME_DO_DIRETORIO>
+    git clone https://github.com/marianafcmotta/deeptube-test.git
+    cd backend
     ```
 
 2. Crie um ambiente virtual:
